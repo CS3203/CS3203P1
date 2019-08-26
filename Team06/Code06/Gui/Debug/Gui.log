@@ -1,0 +1,10 @@
+﻿  Uic'ing mainwindow.ui...
+  Moc'ing codeeditor.h...
+  Moc'ing mainwindow.h...
+  codeeditor.cpp
+  main.cpp
+  mainwindow.cpp
+  GUIWrapper.cpp
+  moc_codeeditor.cpp
+  moc_mainwindow.cpp
+  Gui.vcxproj -> C:\Users\hobin\Downloads\3203\Team06\Code06\Debug\Gui.exe
